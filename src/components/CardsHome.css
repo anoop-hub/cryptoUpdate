@@ -1,0 +1,18 @@
+.box{
+    display: flex;
+    margin-top: 0.6rem;
+    border-radius: 2rem;
+    flex-direction: column;
+    justify-content: center;
+    background-color:rgb(32, 32, 32);
+    
+}
+
+.project-card-view:hover {
+    transform: scale(1.09) !important;
+    overflow: hidden !important;
+    box-shadow: 0 4px 4px 5px rgba(175, 138, 185, 0.561) !important;
+    border-radius: 2rem;
+    
+  }
+  
