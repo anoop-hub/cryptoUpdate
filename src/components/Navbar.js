@@ -7,6 +7,7 @@ import { BsCurrencyBitcoin } from 'react-icons/bs'
 import { HiInformationCircle } from 'react-icons/hi'
 export default function Navbar(props) {
 
+  
   const [txt,setText]=useState("")
 
   
