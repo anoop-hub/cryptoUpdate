@@ -1,5 +1,6 @@
 @media screen and (min-width: 992px) {
     .navbar .container-fluid,
+    
     .navbar-expand-lg .navbar-collapse,
     .navbar-expand-lg .navbar-nav {
       flex-direction: column;
