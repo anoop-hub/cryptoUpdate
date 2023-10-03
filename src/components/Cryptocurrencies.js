@@ -15,7 +15,7 @@ const Cryptocurrencies = ({rank,price,market,change}) => {
     setCryptos(t);
 
   //  const filteredData = cryptosList?.data?.coins.filter((item) => item.name.toLowerCase().includes(searchTerm));
-
+  // second commit done
     //setCryptos(filteredData);
   }, [data]);
 
