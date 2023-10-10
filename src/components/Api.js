@@ -3,6 +3,7 @@ const URL='https://bayut.p.rapidapi.com/auto-complete'
 const options = {
     method: 'GET',
     
+    
     params: {
       query: 'abu dhabi',
       hitsPerPage: '25',
