@@ -5,6 +5,7 @@ import millify from 'millify';
 import './CardsHome.css'
 import Spinner from './Spinner';
 
+
 const Cryptocurrencies = ({rank,price,market,change}) => {
   const { data,isFetching } = useGetCryptosQuery();
   const [cryptos,setCryptos]=useState();
