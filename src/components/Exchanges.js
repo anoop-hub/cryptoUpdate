@@ -3,6 +3,7 @@ import React from 'react'
 import Spinner from './Spinner';
 import "./CardsHome.css"
 const Exchanges = () => {
+  
 
 
 //   const { data, isFetching } = useGetExchangesQuery();
